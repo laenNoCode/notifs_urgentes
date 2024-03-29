@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notif_unlocker</string>
+    <string name="filename">soundUnlocker.txt</string>
+    <string name="defaultSecret">unlock</string>
+    <string name="secret_hint">enter here your secret</string>
+    <string name="storage_filename">driveData.txt</string>
+    <string name="drive_file_uri">https://www.googleapis.com/drive/v3/files</string>
+    <string name="drive_file_get_uri">https://www.googleapis.com/drive/v3/files/</string>
+</resources>

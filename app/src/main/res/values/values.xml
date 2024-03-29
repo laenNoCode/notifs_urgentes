@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="refreshTokenTime">14400</integer>
+    <integer name="actualisationTimeSec">60</integer>
+    <integer name="GETTOKENRESULTINTENT">1</integer>
+</resources>
